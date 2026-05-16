@@ -1,0 +1,19 @@
+{
+  "name": "my-algorithms-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "problem1":"npx tsc && node ./dist/problem1_floodFill.js",
+    "problem2":"npx tsc && node ./dist/problem2_trappingRainWater.js",
+    "problem3":"npx tsc && node ./dist/problem3_climbingStairs.js",
+    "problem4":"npx tsc && node ./dist/problem4_jumpGame.js",
+    "problem5":"npx tsc && node ./dist/problem5_rodCutting.js",
+    "problem6":"npx tsc && node ./dist/problem6_largestRectangleHistogram.js",
+    "problem7":"npx tsc && node ./dist/problem7_maximalRectangle.js",
+     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
